@@ -1,1 +1,1 @@
-varias plantillas para graficar
+varias plantillas para graficar pero en esencia estos codigos hacen lo mismo
