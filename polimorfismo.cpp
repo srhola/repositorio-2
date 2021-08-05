@@ -1,4 +1,6 @@
 //poliformismo
+//ignorar este archivo 
+//ignore this file
 #include<iostream>
 #include<stdlib.h>
 using namespace std;
